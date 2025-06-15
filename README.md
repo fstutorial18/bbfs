@@ -59,4 +59,4 @@ Menggunakan kombinasi algoritma **Markov Chain Pattern**, pola frekuensi, dan po
 
 3. Jalankan:
    ```bash
-   python mesin_bbfs.py
+   python bbfs.py
